@@ -1,5 +1,6 @@
-# Hello World 👋
-I am MW
+# Hello World 👋 I'm Mikolaj
+
+Placeholder
 
 <br>
 
