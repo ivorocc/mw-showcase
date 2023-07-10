@@ -19,4 +19,9 @@ Placeholder
 <a target="_blank" href="https://github.com/ivorocc"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>
 
 ## Let's play
+<p align="center">
 <a target="_blank" href=""><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"></img></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"></img></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></img></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"></img></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white"></img></a>
