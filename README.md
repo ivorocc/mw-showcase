@@ -8,13 +8,11 @@ Placeholder
 <br>
 
 <hr>
-
+<a target="_blank" href="https://www.linkedin.com/in/mwitkowicz"><img src="https://img.shields.io/badge/MasterCard-EB001B?logo=mastercard&logoColor=fff&style=flat-square"></img></a>
 <p align="center">
-   <i>The best way to predict the future is to invent it. - Alan Kay</i>
-   <br>
-
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/mwitkowicz"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.producthunt.com/@mikolaj_witkowicz"><img src="https://img.shields.io/badge/Product%20Hunt-DA552F?logo=producthunt&logoColor=fff&style=for-the-badge"></img></a>
 <a target="_blank" href="https://forum.xda-developers.com/m/ivorocc.7390007/"><img src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white"></img></a>
 <a target="_blank" href="https://github.com/ivorocc"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>
 
@@ -26,3 +24,7 @@ Placeholder
 <a target="_blank" href=""><img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white"></img></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/Stadia-CD2640?style=for-the-badge&logo=stadia&logoColor=white"></img></a>
 <a target="_blank" href=""><img src="https://img.shields.io/badge/Nintendo_3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white"></img></a>
+
+<p align="center">
+   <i>The best way to predict the future is to invent it. - Alan Kay</i>
+   <br>
