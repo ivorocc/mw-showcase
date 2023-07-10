@@ -18,4 +18,5 @@ Placeholder
 <a target="_blank" href="https://forum.xda-developers.com/m/ivorocc.7390007/"><img src="https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white"></img></a>
 <a target="_blank" href="https://github.com/ivorocc"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>
 
-
+## Let's play
+<a target="_blank" href=""><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"></img></a>
