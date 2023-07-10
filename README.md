@@ -4,15 +4,15 @@ Placeholder
 
 <br>
 
-## Connect with me
-
-
-
 <br>
 <br>
 
 <hr>
 
-> The best way to predict the future is to invent it. - Alan Kay
+<p align="center">
+   <i>The best way to predict the future is to invent it. - Alan Kay</i>
+   <br>
+
 <br>
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mwitkowicz/)
+<a target="_blank" href="https://www.linkedin.com/in/mwitkowicz"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+
