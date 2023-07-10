@@ -8,7 +8,13 @@ Placeholder
 <br>
 
 <hr>
-<a target="_blank" href="https://www.linkedin.com/in/mwitkowicz"><img src="https://img.shields.io/badge/MasterCard-EB001B?logo=mastercard&logoColor=fff&style=flat-square"></img></a>
+<p align="center">
+<a target="_blank" href=""><img src="https://img.shields.io/badge/MasterCard-EB001B?logo=mastercard&logoColor=fff&style=for-the-badge"></img></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/Visa-1A1F71?logo=visa&logoColor=fff&style=for-the-badge"></img></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/Apple%20Pay-000?logo=applepay&logoColor=fff&style=for-the-badge"></img></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/Google%20Pay-4285F4?logo=googlepay&logoColor=fff&style=for-the-badge"></img></a>
+
+## Find me
 <p align="center">
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/mwitkowicz"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
